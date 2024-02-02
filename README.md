@@ -61,4 +61,4 @@ The following tutorial has an in-depth explanation of how position indexes work:
 *Like these tutorials?*<br>
 *Tips are appreciated, but never expected.*<br>
 *ETH / USDC / ERC20 Tokens:* 0xc1B5d712DB2e56a3201116c326186193b3ADb948<br>
-*![eth logo](Tutorials/images/eth_logo.jpg)
+![Donation QR Code](Tutorials/images/donation.jpg)
