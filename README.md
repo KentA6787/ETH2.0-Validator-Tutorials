@@ -1,5 +1,4 @@
 ![eth logo](Tutorials/images/eth_logo.jpg)
-
 # ETH Validator Tutorials <br> for any native ETH2.0 validator
 
 <br>
