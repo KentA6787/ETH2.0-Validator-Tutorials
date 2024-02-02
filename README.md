@@ -1,4 +1,4 @@
-![eth logo](images/eth_logo.jpg)
+![eth logo](Tutorials/images/eth_logo.jpg)
 
 # ETH Validator Tutorials <br> for any native ETH2.0 validator
 
@@ -10,7 +10,7 @@ To change the withdrawal credentials on your validator from the old 0x00 credent
 
 If you do not update your withdrawal credentials, some of your validator rewards (all except block proposal rewards) will just accumulate within the validator instead of being sent to you, and you will not be able to exit the validator and reclaim your 32ETH stake in the future until this process is completed. If you are unsure of the status of your withdrawal credentials, you can check your validator’s public dashboard on [Beaconcha.in](https://beaconcha.in/), and look for a yellow error icon next to the withdrawals icon, which indicates the withdrawal credentials have not been updated.
 
-> ![example image](images/BC006.jpg)
+> ![example image](Tutorials/images/BC006.jpg)
 
 Due to the finality of only being allowed to update your withdrawal credentials once, this process improves the safety of your staked ETH, if your validator private keys ever become compromised. But for this very reason, you also need to be careful when you choose an ETH wallet address to designate, as this process permanently locks your entire stake to that wallet address. As this change can only be published to the network once, you must ensure that the wallet address you designate for the deposit of your rewards, is an address you own and have the keys to, and will continue to own and control. Otherwise your rewards and entire ETH stake will be unrecoverable in the future. Using a crypto exchange deposit address is NOT recommended, as they can change/expire, and you don’t own the keys to those addresses.
 
@@ -60,4 +60,5 @@ The following tutorial has an in-depth explanation of how position indexes work:
 
 *Like these tutorials?*<br>
 *Tips are appreciated, but never expected.*<br>
-*ETH / USDC / ERC20 Tokens:* 0xc1B5d712DB2e56a3201116c326186193b3ADb948
+*ETH / USDC / ERC20 Tokens:* 0xc1B5d712DB2e56a3201116c326186193b3ADb948<br>
+*![eth logo](Tutorials/images/eth_logo.jpg)
