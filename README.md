@@ -15,9 +15,9 @@ Due to the finality of only being allowed to update your withdrawal credentials 
 
 The following tutorials have step-by-step instructions on how to update your withdrawal credentials using your choice of tool:
 
-👉 [Using the Wagyu Key Gen tool](Tutorials/Update_Withdrawal_Credentials_with_Wagyu.md) *(GUI)*
+👉 **1a:** [Using the Wagyu Key Gen tool](Tutorials/Update_Withdrawal_Credentials_with_Wagyu.md) *(GUI)*
 <br>— or —<br>
-👉 [Using the Staking-Deposit-CLI tool](Tutorials/Update_Withdrawal_Credentials_with_CLI.md) *(CLI)*
+👉 **1b:** [Using the Staking-Deposit-CLI tool](Tutorials/Update_Withdrawal_Credentials_with_CLI.md) *(CLI)*
 
 <br>
 
@@ -27,9 +27,9 @@ A keystore file is a JSON text file that you may have created when you created y
 
 The following tutorials have step-by-step instructions on how to recreate keystore files for your validator using your choice of tool:
 
-👉 [Using the Wagyu Key Gen tool](Tutorials/Recreate_Keystore_Files_with_Wagyu.md) *(GUI)*
+👉 **2a:** [Using the Wagyu Key Gen tool](Tutorials/Recreate_Keystore_Files_with_Wagyu.md) *(GUI)*
 <br>— or —<br>
-👉 [Using the Staking-Deposit-CLI tool](Tutorials/Recreate_Keystore_Files_with_CLI.md) *(CLI)*
+👉 **2b:** [Using the Staking-Deposit-CLI tool](Tutorials/Recreate_Keystore_Files_with_CLI.md) *(CLI)*
 
 <br>
 
@@ -39,9 +39,9 @@ To exit your mainnet validator and have your ETH stake returned to you, you must
 
 The following tutorials have step-by-step instructions on how to sign and publish an exit message for your validator using Ethdo and your choice of input method:
 
-👉 [Using the Ethdo tool with validator keystore files](Tutorials/Exit_Validator_with_Keystore_File.md) *(CLI)*
+👉 **3a:** [Using the Ethdo tool with validator keystore files](Tutorials/Exit_Validator_with_Keystore_File.md) *(CLI)*
 <br>— or —<br>
-👉 [Using the Ethdo tool with validator mnemonic](Tutorials/Exit_Validator_with_Validator_Mnemonic.md) *(CLI)*
+👉 **3b:** [Using the Ethdo tool with validator mnemonic (batching option available)](Tutorials/Exit_Validator_with_Validator_Mnemonic.md) *(CLI)*
 
 <br>
 
