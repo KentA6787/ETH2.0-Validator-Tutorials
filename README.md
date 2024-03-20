@@ -41,7 +41,7 @@ The following tutorials have step-by-step instructions on how to sign and publis
 
 👉 **3a:** [Using the Ethdo tool with validator keystore files](Tutorials/Exit_Validator_with_Keystore_File.md) *(CLI)*
 <br>— or —<br>
-👉 **3b:** [Using the Ethdo tool with validator mnemonic](Tutorials/Exit_Validator_with_Validator_Mnemonic.md) *(CLI)* (not recommended if you have more than one validator under this mnemonic)
+👉 **3b:** [Using the Ethdo tool with validator mnemonic](Tutorials/Exit_Validator_with_Validator_Mnemonic.md) *(CLI)*
 
 <br>
 
